@@ -20,5 +20,18 @@
 }
 
 .background-image{
-    background-image: url("lab6.jpeg");
+    background-image: url("main_puppies_1280p.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+}
+
+.background-image-repeat{
+    background-image: url("main_puppies_1280p.jpg");
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    height: 1400px;
+    width: 1400px;
+    background-size: content;
 }
