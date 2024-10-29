@@ -10,3 +10,7 @@
 .absolute-box{
     position: absolute; top: 10px; left: 15px;
 }
+
+.fixed-box{
+    position: fixed; bottom: 10px; right: 10px;
+}
