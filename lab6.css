@@ -14,3 +14,11 @@
 .fixed-box{
     position: fixed; bottom: 10px; right: 10px;
 }
+
+.sticky-box{
+    position: sticky; top: 0px; 
+}
+
+.background-image{
+    background-image: url("lab6.jpeg");
+}
