@@ -1,0 +1,8 @@
+.static-box{
+    position: static;
+}
+
+.relative-box{
+    position: relative; left: 20px; right: 30px;
+    
+}
